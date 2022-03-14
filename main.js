@@ -1,4 +1,4 @@
-alert('JavaScript is running!')
+
 
 let btn = document.getElementById('btn')
 
